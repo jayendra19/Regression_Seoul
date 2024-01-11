@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+Xgboost
+Flask
+zenml
+dill 
+mlflow
+dvc
+python-dotenv==0.19.0
+
+
+#-e .
