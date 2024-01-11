@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/279865e871dd4cb49a0c24641956044a/artifacts
+end_time: 1702650647735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279865e871dd4cb49a0c24641956044a
+run_name: fortunate-donkey-491
+run_uuid: 279865e871dd4cb49a0c24641956044a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702650630800
+status: 3
+tags: []
+user_id: postgres

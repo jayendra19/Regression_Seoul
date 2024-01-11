@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/abd3c63ae7674260901c0f94f36be064/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd3c63ae7674260901c0f94f36be064
+run_name: gregarious-carp-420
+run_uuid: abd3c63ae7674260901c0f94f36be064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702651424025
+status: 1
+tags: []
+user_id: postgres

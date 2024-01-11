@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/866eecde4eb04033b60ae5b07b793137/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 866eecde4eb04033b60ae5b07b793137
+run_name: gentle-ray-905
+run_uuid: 866eecde4eb04033b60ae5b07b793137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702653385976
+status: 1
+tags: []
+user_id: postgres

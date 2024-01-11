@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/2485343996d04060a863a388b19b2249/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2485343996d04060a863a388b19b2249
+run_name: nosy-eel-973
+run_uuid: 2485343996d04060a863a388b19b2249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702652191294
+status: 1
+tags: []
+user_id: postgres

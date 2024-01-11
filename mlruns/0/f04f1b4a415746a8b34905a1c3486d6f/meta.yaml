@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/f04f1b4a415746a8b34905a1c3486d6f/artifacts
+end_time: 1702656531679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04f1b4a415746a8b34905a1c3486d6f
+run_name: shivering-jay-28
+run_uuid: f04f1b4a415746a8b34905a1c3486d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702656530514
+status: 3
+tags: []
+user_id: postgres

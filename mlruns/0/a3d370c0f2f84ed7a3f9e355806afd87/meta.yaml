@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/a3d370c0f2f84ed7a3f9e355806afd87/artifacts
+end_time: 1702654802725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3d370c0f2f84ed7a3f9e355806afd87
+run_name: amazing-skink-99
+run_uuid: a3d370c0f2f84ed7a3f9e355806afd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702654790553
+status: 3
+tags: []
+user_id: postgres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/0861135553b1457785ca6af9c706d794/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0861135553b1457785ca6af9c706d794
+run_name: funny-squirrel-336
+run_uuid: 0861135553b1457785ca6af9c706d794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702653067266
+status: 1
+tags: []
+user_id: postgres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/15d157ac200a424bab6e7fe02f484b48/artifacts
+end_time: 1702652566845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d157ac200a424bab6e7fe02f484b48
+run_name: gentle-lynx-520
+run_uuid: 15d157ac200a424bab6e7fe02f484b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702652566691
+status: 3
+tags: []
+user_id: postgres

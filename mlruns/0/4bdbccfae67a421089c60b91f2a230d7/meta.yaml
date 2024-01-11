@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/4bdbccfae67a421089c60b91f2a230d7/artifacts
+end_time: 1702658806121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bdbccfae67a421089c60b91f2a230d7
+run_name: wistful-donkey-53
+run_uuid: 4bdbccfae67a421089c60b91f2a230d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702658805332
+status: 3
+tags: []
+user_id: postgres

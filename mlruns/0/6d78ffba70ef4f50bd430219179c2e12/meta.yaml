@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/6d78ffba70ef4f50bd430219179c2e12/artifacts
+end_time: 1702656964691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d78ffba70ef4f50bd430219179c2e12
+run_name: omniscient-midge-728
+run_uuid: 6d78ffba70ef4f50bd430219179c2e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702656964093
+status: 3
+tags: []
+user_id: postgres

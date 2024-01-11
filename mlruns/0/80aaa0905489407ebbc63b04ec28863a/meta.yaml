@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/80aaa0905489407ebbc63b04ec28863a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80aaa0905489407ebbc63b04ec28863a
+run_name: colorful-eel-638
+run_uuid: 80aaa0905489407ebbc63b04ec28863a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702651393465
+status: 1
+tags: []
+user_id: postgres

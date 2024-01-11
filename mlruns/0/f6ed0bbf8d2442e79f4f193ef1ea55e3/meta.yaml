@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/f6ed0bbf8d2442e79f4f193ef1ea55e3/artifacts
+end_time: 1702650990421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6ed0bbf8d2442e79f4f193ef1ea55e3
+run_name: dazzling-crane-96
+run_uuid: f6ed0bbf8d2442e79f4f193ef1ea55e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702650976802
+status: 3
+tags: []
+user_id: postgres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/f593cae9a85a452ebc16048b5f4bbe69/artifacts
+end_time: 1702652494000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f593cae9a85a452ebc16048b5f4bbe69
+run_name: resilient-turtle-498
+run_uuid: f593cae9a85a452ebc16048b5f4bbe69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702652493865
+status: 3
+tags: []
+user_id: postgres

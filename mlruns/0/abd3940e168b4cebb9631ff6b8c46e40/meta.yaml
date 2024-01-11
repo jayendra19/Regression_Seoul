@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/abd3940e168b4cebb9631ff6b8c46e40/artifacts
+end_time: 1702655922412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd3940e168b4cebb9631ff6b8c46e40
+run_name: delicate-penguin-732
+run_uuid: abd3940e168b4cebb9631ff6b8c46e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702655921976
+status: 3
+tags: []
+user_id: postgres

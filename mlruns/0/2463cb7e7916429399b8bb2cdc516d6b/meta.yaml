@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/2463cb7e7916429399b8bb2cdc516d6b/artifacts
+end_time: 1702658461183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2463cb7e7916429399b8bb2cdc516d6b
+run_name: unruly-shark-85
+run_uuid: 2463cb7e7916429399b8bb2cdc516d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702658460732
+status: 3
+tags: []
+user_id: postgres

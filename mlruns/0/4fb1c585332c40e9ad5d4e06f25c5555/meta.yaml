@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/4fb1c585332c40e9ad5d4e06f25c5555/artifacts
+end_time: 1702656799186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb1c585332c40e9ad5d4e06f25c5555
+run_name: nervous-mink-734
+run_uuid: 4fb1c585332c40e9ad5d4e06f25c5555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702656798758
+status: 3
+tags: []
+user_id: postgres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/97af62e9ee23436ebc529c8616f61130/artifacts
+end_time: 1702656577343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97af62e9ee23436ebc529c8616f61130
+run_name: bright-crab-469
+run_uuid: 97af62e9ee23436ebc529c8616f61130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702656576924
+status: 3
+tags: []
+user_id: postgres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/75a56bc011b64807b55b0d96d84639e5/artifacts
+end_time: 1702650239929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75a56bc011b64807b55b0d96d84639e5
+run_name: unruly-donkey-351
+run_uuid: 75a56bc011b64807b55b0d96d84639e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702650223416
+status: 3
+tags: []
+user_id: postgres

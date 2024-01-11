@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/3fafdb05ac5e4d3c9f4726b968e67666/artifacts
+end_time: 1702650853218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fafdb05ac5e4d3c9f4726b968e67666
+run_name: funny-rook-183
+run_uuid: 3fafdb05ac5e4d3c9f4726b968e67666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702650838976
+status: 3
+tags: []
+user_id: postgres

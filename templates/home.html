@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bike Rental Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background: url('background-image.jpg') center/cover no-repeat fixed;
+            color: #fff;
+        }
+        .container {
+            padding: 50px;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            width: 70%;
+            margin: auto;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+            margin-top: 50px;
+        }
+        form {
+            text-align: left;
+        }
+        input, select {
+            padding: 10px;
+            margin: 10px 0;
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+        }
+        #prediction-result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        #result-box {
+            background: #4CAF50;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bike Rental Prediction</h1>
+
+        <form action="{{ url_for('predict_datapoint')}}" method="post">
+            <label for="hour">Hour:</label>
+            <input type="number" id="hour" name="hour" required>
+
+            <label for="temperature">Temperature (°C):</label>
+            <input type="float" id="temperature" name="temperature" required>
+            
+            <label for="wind_speed">Wind Speed (m/s):</label>
+            <input type="float" id="wind_speed" name="wind_speed_m_s" required>
+            
+            <label for="visibility">Visibility (10m):</label>
+            <input type="float" id="visibility" name="visibility_10m" required>
+            
+            <label for="solar_radiation_mj_m2">Solar Radiation (MJ/m2):</label>
+            <input type="float" id="solar_radiation" name="solar_radiation_mj_m2" required>
+            
+            <label for="rainfall">Rainfall(mm):</label>
+            <input type="float" id="rain_fall" name="rainfall_mm" required>
+            
+            <label for="snowfall">Snowfall(cm):</label>
+            <input type="float" id="snow_fall" name="snowfall_cm" required>
+            
+            <label for="seasons">Seasons:</label>
+            <input type="text" id="seasons" name="seasons" required>
+            
+            <label for="holiday">Holiday:</label>
+            <input type="text" id="holiday" name="holiday" required>
+            
+            <label for="functioning_day">Functioning Day:</label>
+            <input type="text" id="functioning_day" name="functioning_day" required>
+            
+            <label for="year">Year:</label>
+            <input type="number" id="year" name="year" required>
+            
+            <label for="day">Day:</label>
+            <input type="number" id="day" name="day" required>
+            
+            <label for="months">Months:</label>
+            <input type="number" id="months" name="months" required>
+            
+            <label for="weekday">Weekday:</label>
+            <input type="text" id="weekday" name="weekday" required>
+            
+
+            <!-- Add other input fields here based on your variables -->
+
+            <button type="submit">Predict Bike Count</button>
+        </form>
+
+        {% if results %}
+            <div id="result-box">
+                {{ results }}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

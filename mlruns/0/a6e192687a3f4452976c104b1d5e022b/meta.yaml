@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/a6e192687a3f4452976c104b1d5e022b/artifacts
+end_time: 1702657351455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e192687a3f4452976c104b1d5e022b
+run_name: abrasive-flea-121
+run_uuid: a6e192687a3f4452976c104b1d5e022b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702657350974
+status: 3
+tags: []
+user_id: postgres

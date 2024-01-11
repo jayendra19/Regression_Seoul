@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/015b960355f54eeb9e159aba3902b89b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 015b960355f54eeb9e159aba3902b89b
+run_name: clean-ram-776
+run_uuid: 015b960355f54eeb9e159aba3902b89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702653040096
+status: 1
+tags: []
+user_id: postgres

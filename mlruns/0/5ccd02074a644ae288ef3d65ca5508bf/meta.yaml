@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayen/Regression_seoul/mlruns/0/5ccd02074a644ae288ef3d65ca5508bf/artifacts
+end_time: 1702658172690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ccd02074a644ae288ef3d65ca5508bf
+run_name: efficient-ox-555
+run_uuid: 5ccd02074a644ae288ef3d65ca5508bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702658172225
+status: 3
+tags: []
+user_id: postgres
