@@ -1,5 +1,6 @@
 from flask import Flask,request,render_template,jsonify
 
+
 from src.pipeline.predict_pipeline import CustomData,PredictPipeline
 #from sklearn.preprocessing import StandardScaler
 
